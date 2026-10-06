@@ -1,0 +1,6 @@
+{
+  "name": "TapMate.in - Smart NFC Digital Business Cards",
+  "description": "Premium NFC Digital Business Cards and digital profile platform. Choose plans, customize metal or plastic physical cards, and streamline your networking with one tap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
